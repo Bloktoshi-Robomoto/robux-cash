@@ -1,2 +1,15 @@
 # robux-cash
 RoBux Cash ERC-20 ETH Token
+
+
+name: RoBux Cash
+
+symbol: RBC
+
+decimals: 2
+
+max supply: 4,000,000,000.00
+
+contract: 0x829d2e2540ff66c53475d690bd7296bd97685996
+
+home: https://robuxcash.org
